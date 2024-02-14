@@ -3,10 +3,6 @@
 [![Build Status](https://travis-ci.org/your-username/your-repo.svg?branch=master)](https://travis-ci.org/your-username/your-repo)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## Description
-
-Briefly describe your project, highlighting its purpose, key features, and any other important information. This section provides an overview for users and developers.
-
 ## Table of Contents
 
 - [Installation](#installation)
