@@ -19,10 +19,12 @@ Provide step-by-step instructions on how to install and set up your project loca
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/sharmajeet/6B28.git
 
 # Change directory
-cd your-repo
+cd 6B28
 
 # Install dependencies
 npm install
+
+Enjoy :)
