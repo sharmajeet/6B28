@@ -10,4 +10,4 @@ const showStudentRecords = (req, res) => {
   res.json({ name: "jeet sharma", age: 21, address: "vadodara" });
 };
 
-module.exports = { showRecord, showDetails ,showStudentRecords};
+module.exports = { showRecord, showDetails, showStudentRecords };
